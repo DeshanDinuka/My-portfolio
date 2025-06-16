@@ -5,7 +5,7 @@ const Projects = () => {
     {
       title: "EnglishPlatform",
       description: "Font end user interface for an English learning platform, featuring interactive lessons, quizzes, and progress tracking.",
-      image: "https://github.com/DeshanDinuka/My-portfolio/blob/main/public/english.png",
+      image: "https://github.com/DeshanDinuka/My-portfolio/blob/main/public/english.png?auto=compress&cs=tinysrgb&w=800",
       technologies: ["React", "Node.js", "MongoDB", "Stripe", "Tailwind CSS"],
       liveUrl: "https://english-learning-platform-ten.vercel.app/",
       githubUrl: "https://github.com/DeshanDinuka/English-Learning-Platform"
