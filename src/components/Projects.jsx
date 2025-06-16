@@ -29,7 +29,7 @@ const Projects = () => {
     {
       title: "Portfolio Website",
       description: "A modern, responsive portfolio website showcasing projects and skills with smooth animations and optimized performance.",
-      image: "https://github.com/DeshanDinuka/My-portfolio/blob/main/public/portfolio.png?auto=compress&cs=tinysrgb&w=800",
+      image: "https://github.com/DeshanDinuka/My-portfolio/blob/main/public/portfolio.png?raw=true",
       technologies: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
       liveUrl: "https://my-portfolio-ten-tan-58.vercel.app/",
       githubUrl: "https://github.com/DeshanDinuka/My-portfolio"
