@@ -5,7 +5,7 @@ const Projects = () => {
     {
       title: "EnglishPlatform",
       description: "Font end user interface for an English learning platform, featuring interactive lessons, quizzes, and progress tracking.",
-      image: "<img src='/.english-platform.jpg' alt='EnglishPlatform' className='w-full h-48 object-cover' />",
+      image: "https://github.com/DeshanDinuka/My-portfolio/blob/main/public/english.png",
       technologies: ["React", "Node.js", "MongoDB", "Stripe", "Tailwind CSS"],
       liveUrl: "https://english-learning-platform-ten.vercel.app/",
       githubUrl: "https://github.com/DeshanDinuka/English-Learning-Platform"
@@ -31,8 +31,8 @@ const Projects = () => {
       description: "A modern, responsive portfolio website showcasing projects and skills with smooth animations and optimized performance.",
       image: "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800",
       technologies: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
-      liveUrl: "#",
-      githubUrl: "#"
+      liveUrl: "https://my-portfolio-ten-tan-58.vercel.app/",
+      githubUrl: "https://github.com/DeshanDinuka/My-portfolio"
     },
     {
       title: "Smart Canteen",
