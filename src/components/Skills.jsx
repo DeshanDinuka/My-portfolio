@@ -5,10 +5,7 @@ const Skills = () => {
       skills: [
         { name: "React", level: 95 },
         { name: "JavaScript", level: 90 },
-        { name: "TypeScript", level: 75 },
-        { name: "Tailwind CSS", level: 90 },
-        { name: "Next.js", level: 75 },
-        { name: "Vue.js", level: 75 }
+        { name: "Tailwind CSS", level: 90 }
       ]
     },
     {
@@ -16,11 +13,7 @@ const Skills = () => {
       skills: [
         { name: "Node.js", level: 85 },
         { name: "Python", level: 80 },
-        { name: "Express.js", level: 85 },
-        { name: "MongoDB", level: 80 },
-        { name: "PostgreSQL", level: 75 },
-        { name: "REST APIs", level: 90 },
-        { name: "Node.js", level: 70 }
+        { name: "Express.js", level: 85 }
       ]
     },
     {
@@ -29,15 +22,13 @@ const Skills = () => {
         { name: "Git", level: 90 },
         { name: "Docker", level: 70 },
         { name: "AWS", level: 65 },
-        { name: "Figma", level: 85 },
-        { name: "Jest", level: 80 },
-        { name: "Webpack", level: 75 }
+        { name: "Figma", level: 85 }
       ]
     }
   ];
 
   const technologies = [
-    "React", "Node.js", "JavaScript", "Python", "MongoDB", "PostgreSQL", 
+    "React", "Node.js", "JavaScript", "Python", "MongoDB",
     "AWS", "Docker", "Git", "Tailwind", "Next.js", "Vue.js"
   ];
 
