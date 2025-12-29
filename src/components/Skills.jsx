@@ -29,7 +29,7 @@ const Skills = () => {
 
   const technologies = [
     "React", "Node.js", "JavaScript", "Python", "MongoDB",
-    "AWS", "Docker", "Git", "Tailwind", "Next.js", "Vue.js"
+    "AWS", "Docker", "Git", "Tailwind"
   ];
 
   return (
